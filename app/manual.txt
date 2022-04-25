@@ -1,0 +1,8 @@
+1. Nyalakan perangkat dengan menyambungkan adaptor 12V 2A ke port power. <br>
+2. Buka Smartphone atau Komputer dan sambungkan WiFI ke jaringan dengan nama ‘Smart Door Lock’. <br>
+3. Smartphone akan diarahkan ke menu konfigurasi awal perangkat. Jika tidak diarahkan secara otomatis, silahkan akses link berikut : <a href="http://192.168.4.1">http://192.168.4.1/</a>. <br>
+4. Klik Konfigurasi WiFi. <br>
+5. Isi kolom SSID dan Password dengan WiFi yang memiliki kapabilitas internet.<br>
+6. Jika sudah, klik simpan. <br>
+7. Jika jaringan dengan nama ‘Smart Door Lock’ sudah tidak ada, perangkat sudah terhubung ke internet dengan baik. <br>
+8. Jika jaringan masih ada, pengguna bisa mengulangi proses 2-6. <br>
